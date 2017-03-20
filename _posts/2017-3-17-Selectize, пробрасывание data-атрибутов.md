@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Selectize, проброс data-атрибутов
 ---
 
 [Selectize.js](https://github.com/selectize/selectize.js) - js-библиотека для кастомизации select.
