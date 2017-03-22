@@ -3,6 +3,7 @@ layout: post
 title: Selectize, проброс data-атрибутов
 ---
 
+
 [Selectize.js](https://github.com/selectize/selectize.js) - js-библиотека для кастомизации select.
 
 Может быть так, что в вашем js-коде option-ы у select имеют data-атрибуты, и поведение завязано на этом.
